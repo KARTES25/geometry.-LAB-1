@@ -1,4 +1,3 @@
-
 compilation:
-      gcc -Wall -o compilation geometry.c
+	g++ -Wall -o compilation geometry.c
 
